@@ -1,0 +1,27 @@
+.add{
+  display: flex;
+  font-size: 29px;
+  margin-left: 42% ;
+  
+}
+.add span{
+  transform: rotate(-90deg);
+}
+.add h1{
+  margin:  0px;
+  padding: 0;
+}
+/* .sid{
+  transform: rotate(90deg);
+  margin-top: 40px;
+} */
+
+
+@media (max-width: 480px) {
+  .add {
+    width: 440px;
+    margin-right: 80% ;
+    margin-left: 70px;
+
+  }
+}

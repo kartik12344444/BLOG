@@ -1,0 +1,222 @@
+.head5{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-right: 52%;
+}
+.head5 hr{
+  width: 80px;
+  height: 1.5px;
+  background-color: tomato;
+  margin-right: 378px;
+}
+.hrline{
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 40px;
+  background-color: black;
+  opacity: 20%;
+
+}
+.wrapperbox5{
+  display: flex;
+  margin-left: 18%;
+  margin-right: 18%;
+  margin-top: 50px;
+}
+.wrapperbox51{
+  height: 300px;
+  width: 33%;
+  text-align: start;
+}
+.wrapperbox51 a{
+  text-decoration: none;
+}
+.wrapperbox51 p{
+  font-size: 13px;
+  text-align: start;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: lighter;
+}
+.wrapperbox51 h2{
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.wrapperbox52{
+  height: 300px;
+  width: 33%;
+  margin-left: 5px;
+  text-align: start;
+}
+.wrapperbox52 a{
+  text-decoration: none;
+}
+.wrapperbox52 p{
+  font-size: 13px;
+  text-align: start;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: lighter;
+}
+.wrapperbox52 h2{
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.wrapperbox53{
+  height: 300px;
+  width: 33%;
+  margin-left: 5px;
+  text-align: start;
+}
+.wrapperbox53 a{
+  text-decoration: none;
+}
+.wrapperbox53 p{
+  font-size: 13px;
+  text-align: start;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: lighter;
+}
+.wrapperbox53 h2{
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.date5{
+  margin-top: 60px;
+  font-size: 15px;
+  margin-left: 10px;
+  font-weight: bold;
+}
+.date5 span{
+  font-weight: lighter;
+}
+.view{
+  margin-right: 53%;
+  margin-top: 50px;
+  font-size: 13px;
+  margin-bottom: 50px;
+}
+.arrow5{
+  margin-left: 8px;
+  color: crimson;
+  width: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+  .head5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 52%;
+    width: 170px;
+    margin-top: 100px;
+  }
+  .head5 hr{
+    width: 80px;
+    height: 1.5px;
+    background-color: tomato;
+    margin-right: 318px;
+    margin-left: 40px;
+  }
+  .hrline{
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 40px;
+    background-color: black;
+    opacity: 20%;
+  
+  }
+  .wrapperbox5{
+    display: grid;
+    margin-left: 8%;
+    margin-right: 18%;
+    margin-top: 50px;
+  }
+  .wrapperbox51 a{
+    text-decoration: none;
+  }
+  .wrapperbox51{
+    height: 300px;
+    width: 120%;
+    text-align: start;
+  }
+  .wrapperbox51 p{
+    font-size: 13px;
+    text-align: start;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: lighter;
+  }
+  .wrapperbox51 h2{
+    margin-right: 20px;
+    margin-left: 10px;
+  }
+  .wrapperbox52{
+    height: 300px;
+    width: 120%;
+    margin-left: 5px;
+    text-align: start;
+  }
+  .wrapperbox52 p{
+    font-size: 13px;
+    text-align: start;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: lighter;
+  }
+  .wrapperbox52 h2{
+    margin-right: 20px;
+    margin-left: 10px;
+  }
+  .wrapperbox53{
+    height: 300px;
+    width: 120%;
+    margin-left: 5px;
+    text-align: start;
+  }
+  .wrapperbox53 p{
+    font-size: 13px;
+    text-align: start;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: lighter;
+  }
+  .wrapperbox53 h2{
+    margin-right: 20px;
+    margin-left: 10px;
+  }
+  .date5{
+    margin-top: 60px;
+    font-size: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-bottom: 160px;
+  }
+  .date5 span{
+    font-weight: lighter;
+  }
+  .view{
+    margin-right: 53%;
+    margin-top: 50px;
+    font-size: 13px;
+    margin-bottom: 50px;
+  }
+  .arrow5{
+    margin-left: 8px;
+    color: crimson;
+    width: 10px;
+  
+  }
+  
+
+
+
+}
+  
