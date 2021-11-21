@@ -4,7 +4,7 @@ import Box2 from '../Box2/Box2'
 import Box3 from '../Box3/Box3'
 import Box4 from '../Box4/Box4'
 import Box5 from '../Box5/Box5'
-import Login from '../Login/Login'
+
 
 
 

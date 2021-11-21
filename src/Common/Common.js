@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './Common.css'
 import tech from '../Images/tech.PNG'
 import latest4 from '../Images/latest4.PNG'
