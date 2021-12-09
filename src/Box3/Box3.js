@@ -72,3 +72,5 @@ function Box3() {
     </div>
   )
 }
+
+export default Box3;
