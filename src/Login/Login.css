@@ -12,3 +12,6 @@ justify-content: center;
 min-height: 30vh;
 padding: 50px;
 }
+.MuiAppBar-colorPrimary{
+  background-color: white;
+}

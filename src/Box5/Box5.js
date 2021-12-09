@@ -13,21 +13,21 @@ export class Box5 extends Component {
         <div className='hrline'><hr/></div>
         <div className='wrapperbox5'>
           <div className='wrapperbox51'>
-          <Link to='/travel/blog'><h2>Catch waves with an adventure Guide</h2></Link> 
+          <Link to='/travel/blog'><h2>Catch waves with an adventure Guide</h2>
             
-            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p>
+            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p></Link>
             <div className='date5'>Travel <span>/ November 17 2021</span></div>
           </div>
           <div className='wrapperbox52'>
-          <Link to='/travel/blog'><h2>Gain your shape with an adventure leap</h2></Link> 
+          <Link to='/travel/blog'><h2>Gain your shape with an adventure leap</h2>
             
-            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p>
+            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p></Link>
             <div className='date5'>Fitness <span>/ November 17 2021</span></div>
           </div>
           <div className='wrapperbox53'>
-          <Link to='/travel/blog'><h2>Progress of Artificial Intelligence </h2></Link> 
+          <Link to='/travel/blog'><h2>Progress of Artificial Intelligence </h2>
            
-            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p>
+            <p>Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces.Gujarat is vastly underrated and it's a mystery to us why the region isn't more well-known as tourist distination.It has a plethora of temples and palaces</p></Link>
             <div className='date5'>Technology <span>/ November 17 2021</span></div>
           </div>
         </div>

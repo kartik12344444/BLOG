@@ -26,7 +26,7 @@ alert('Incorrect Credntials!');
 render() {
 return (
 <div>
-<AppBar position="static" alignitems="center" color="primary">
+<AppBar position="static" alignitems="center" >
 <Toolbar>
 <Grid container justify="center" wrap="wrap">
 <Grid item>

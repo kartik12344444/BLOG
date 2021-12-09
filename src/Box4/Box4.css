@@ -165,6 +165,10 @@
     font-weight: bold;
     width: 280px;
     margin-bottom: 15px;
+    
+  }
+  .box44 a{
+    text-decoration: none;
   }
   .number{
     font-size: 65px;
